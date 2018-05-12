@@ -1,0 +1,96 @@
+Apache server shutdown initiated...
+[Tue May 08 15:59:07.520409 2018] [ssl:warn] [pid 6912:tid 672] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 16:14:05.108153 2018] [ssl:warn] [pid 7712:tid 636] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 16:14:05.458736 2018] [core:warn] [pid 7712:tid 636] AH00098: pid file E:/Projects/achievers website/server/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue May 08 16:14:05.862051 2018] [ssl:warn] [pid 7712:tid 636] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 16:14:25.522093 2018] [mpm_winnt:notice] [pid 7712:tid 636] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Tue May 08 16:14:25.522093 2018] [mpm_winnt:notice] [pid 7712:tid 636] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Tue May 08 16:14:25.522093 2018] [core:notice] [pid 7712:tid 636] AH00094: Command line: 'apache\\bin\\httpd.exe -d E:/Projects/achievers website/server/apache -f conf\\httpd.conf'
+[Tue May 08 16:14:25.593673 2018] [mpm_winnt:notice] [pid 7712:tid 636] AH00418: Parent: Created child process 8032
+[Tue May 08 16:14:28.206536 2018] [ssl:warn] [pid 8032:tid 656] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 16:14:29.219830 2018] [ssl:warn] [pid 8032:tid 656] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 16:14:29.633102 2018] [mpm_winnt:notice] [pid 8032:tid 656] AH00354: Child: Starting 150 worker threads.
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+[Tue May 08 16:59:56.992822 2018] [mpm_winnt:notice] [pid 7712:tid 636] AH00428: Parent: child process 8032 exited with status 3221226356 -- Restarting.
+[Tue May 08 16:59:57.767921 2018] [ssl:warn] [pid 7712:tid 636] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 16:59:57.838472 2018] [mpm_winnt:notice] [pid 7712:tid 636] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Tue May 08 16:59:57.838472 2018] [mpm_winnt:notice] [pid 7712:tid 636] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Tue May 08 16:59:57.838472 2018] [core:notice] [pid 7712:tid 636] AH00094: Command line: 'apache\\bin\\httpd.exe -d E:/Projects/achievers website/server/apache -f conf\\httpd.conf'
+[Tue May 08 16:59:57.902024 2018] [mpm_winnt:notice] [pid 7712:tid 636] AH00418: Parent: Created child process 2844
+[Tue May 08 17:00:01.083289 2018] [ssl:warn] [pid 2844:tid 236] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 17:00:01.732751 2018] [ssl:warn] [pid 2844:tid 236] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 17:00:01.818811 2018] [mpm_winnt:notice] [pid 2844:tid 236] AH00354: Child: Starting 150 worker threads.
+[Tue May 08 20:30:01.471692 2018] [mpm_winnt:notice] [pid 7712:tid 636] AH00428: Parent: child process 2844 exited with status 3221226356 -- Restarting.
+[Tue May 08 20:30:02.429201 2018] [ssl:warn] [pid 7712:tid 636] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 20:30:02.629674 2018] [mpm_winnt:notice] [pid 7712:tid 636] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Tue May 08 20:30:02.629674 2018] [mpm_winnt:notice] [pid 7712:tid 636] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Tue May 08 20:30:02.629674 2018] [core:notice] [pid 7712:tid 636] AH00094: Command line: 'apache\\bin\\httpd.exe -d E:/Projects/achievers website/server/apache -f conf\\httpd.conf'
+[Tue May 08 20:30:02.689719 2018] [mpm_winnt:notice] [pid 7712:tid 636] AH00418: Parent: Created child process 2028
+[Tue May 08 20:30:04.864081 2018] [ssl:warn] [pid 2028:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 20:30:05.383484 2018] [ssl:warn] [pid 2028:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 20:30:05.437210 2018] [mpm_winnt:notice] [pid 2028:tid 588] AH00354: Child: Starting 150 worker threads.
+libpng warning: iCCP: known incorrect sRGB profile
+[Tue May 08 20:35:03.184349 2018] [mpm_winnt:notice] [pid 7712:tid 636] AH00428: Parent: child process 2028 exited with status 3221226356 -- Restarting.
+[Tue May 08 20:35:04.102625 2018] [ssl:warn] [pid 7712:tid 636] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 20:35:04.163663 2018] [mpm_winnt:notice] [pid 7712:tid 636] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Tue May 08 20:35:04.163663 2018] [mpm_winnt:notice] [pid 7712:tid 636] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Tue May 08 20:35:04.163663 2018] [core:notice] [pid 7712:tid 636] AH00094: Command line: 'apache\\bin\\httpd.exe -d E:/Projects/achievers website/server/apache -f conf\\httpd.conf'
+[Tue May 08 20:35:04.229682 2018] [mpm_winnt:notice] [pid 7712:tid 636] AH00418: Parent: Created child process 17264
+[Tue May 08 20:35:06.385750 2018] [ssl:warn] [pid 17264:tid 624] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 20:35:06.898358 2018] [ssl:warn] [pid 17264:tid 624] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 20:35:07.030649 2018] [mpm_winnt:notice] [pid 17264:tid 624] AH00354: Child: Starting 150 worker threads.
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+[Tue May 08 21:21:59.246932 2018] [mpm_winnt:notice] [pid 7712:tid 636] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue May 08 21:22:29.251229 2018] [mpm_winnt:notice] [pid 7712:tid 636] AH00431: Parent: Forcing termination of child process 17264
+[Tue May 08 21:22:42.534335 2018] [ssl:warn] [pid 9712:tid 624] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 21:22:43.113751 2018] [ssl:warn] [pid 9712:tid 624] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 21:22:43.186296 2018] [mpm_winnt:notice] [pid 9712:tid 624] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Tue May 08 21:22:43.186296 2018] [mpm_winnt:notice] [pid 9712:tid 624] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Tue May 08 21:22:43.186296 2018] [core:notice] [pid 9712:tid 624] AH00094: Command line: 'apache\\bin\\httpd.exe -d E:/Projects/achievers website/server/apache -f conf\\httpd.conf'
+[Tue May 08 21:22:43.246839 2018] [mpm_winnt:notice] [pid 9712:tid 624] AH00418: Parent: Created child process 14508
+[Tue May 08 21:22:45.732763 2018] [ssl:warn] [pid 14508:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 21:22:46.279158 2018] [ssl:warn] [pid 14508:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 21:22:46.346699 2018] [mpm_winnt:notice] [pid 14508:tid 592] AH00354: Child: Starting 150 worker threads.
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+[Tue May 08 21:24:21.090337 2018] [mpm_winnt:notice] [pid 9712:tid 624] AH00428: Parent: child process 14508 exited with status 3221226356 -- Restarting.
+[Tue May 08 21:24:21.965687 2018] [ssl:warn] [pid 9712:tid 624] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 21:24:22.023706 2018] [mpm_winnt:notice] [pid 9712:tid 624] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Tue May 08 21:24:22.023706 2018] [mpm_winnt:notice] [pid 9712:tid 624] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Tue May 08 21:24:22.023706 2018] [core:notice] [pid 9712:tid 624] AH00094: Command line: 'apache\\bin\\httpd.exe -d E:/Projects/achievers website/server/apache -f conf\\httpd.conf'
+[Tue May 08 21:24:22.101708 2018] [mpm_winnt:notice] [pid 9712:tid 624] AH00418: Parent: Created child process 1536
+[Tue May 08 21:24:25.765774 2018] [ssl:warn] [pid 1536:tid 732] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 21:24:27.104028 2018] [ssl:warn] [pid 1536:tid 732] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 08 21:24:27.184125 2018] [mpm_winnt:notice] [pid 1536:tid 732] AH00354: Child: Starting 150 worker threads.
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+[Tue May 08 23:30:24.402702 2018] [mpm_winnt:notice] [pid 9712:tid 624] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue May 08 23:30:26.406591 2018] [mpm_winnt:notice] [pid 1536:tid 732] AH00364: Child: All worker threads have exited.
+[Tue May 08 23:30:26.907826 2018] [mpm_winnt:notice] [pid 9712:tid 624] AH00430: Parent: Child process 1536 exited successfully.
+[Wed May 09 10:34:20.979409 2018] [ssl:warn] [pid 20472:tid 772] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 09 10:34:22.704156 2018] [ssl:warn] [pid 20472:tid 772] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 09 10:34:28.885526 2018] [mpm_winnt:notice] [pid 20472:tid 772] AH00455: Apache/2.4.28 (Win32) OpenSSL/1.0.2l PHP/7.1.10 configured -- resuming normal operations
+[Wed May 09 10:34:28.885526 2018] [mpm_winnt:notice] [pid 20472:tid 772] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 11:36:32
+[Wed May 09 10:34:28.885526 2018] [core:notice] [pid 20472:tid 772] AH00094: Command line: 'apache\\bin\\httpd.exe -d E:/Projects/achievers website/server/apache -f conf\\httpd.conf'
+[Wed May 09 10:34:28.967589 2018] [mpm_winnt:notice] [pid 20472:tid 772] AH00418: Parent: Created child process 8876
+[Wed May 09 10:34:33.467774 2018] [ssl:warn] [pid 8876:tid 724] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 09 10:34:35.185992 2018] [ssl:warn] [pid 8876:tid 724] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 09 10:34:35.312082 2018] [mpm_winnt:notice] [pid 8876:tid 724] AH00354: Child: Starting 150 worker threads.
+[Wed May 09 10:59:56.736354 2018] [mpm_winnt:notice] [pid 20472:tid 772] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed May 09 10:59:58.752142 2018] [mpm_winnt:notice] [pid 8876:tid 724] AH00364: Child: All worker threads have exited.
+[Wed May 09 10:59:59.002137 2018] [mpm_winnt:notice] [pid 20472:tid 772] AH00430: Parent: Child process 8876 exited successfully.
